@@ -18,21 +18,9 @@ How to run the file:
 Clone the repo and execute main.py.
 Go to your browser and paste the local port address --> http://127.0.0.1:5000.
 
-![](images/topmovies_video.mp4)(images/topmovies_video.mp4)
 
-<video src="images/topmovies_video.mp4" width="320" height="240" controls></video>
 
-Homepage.
-![webpage home](images/topmovies_home.png)
+https://github.com/user-attachments/assets/dbd6d9e1-37e3-49e9-b73a-eda76e07f29e
 
-To add a movie, click on "Add Movie" and enter the movie title. 
-![add movie title](images/topmovies_add1.png)
 
-Movies with similar title will be searched from [TMDB website](https://www.themoviedb.org/). Click on the title you would like to add. 
-![movie search results](images/topmovies_add2.png)
 
-Add a rating and a short review about this movie. 
-![add movie details](images/topmovies_add3.png)
-
-The newly added movie will now be displayed on the homepage by rank order. 
-![movie in new homepage](images/topmovies_add4.png)
