@@ -18,7 +18,8 @@ How to run the file:
 Clone the repo and execute main.py.
 Go to your browser and paste the local port address --> http://127.0.0.1:5000.
 
-
+Demo video:
+-
 
 https://github.com/user-attachments/assets/dbd6d9e1-37e3-49e9-b73a-eda76e07f29e
 
