@@ -18,11 +18,13 @@ How to run the file:
 Clone the repo and execute main.py.
 Go to your browser and paste the local port address --> http://127.0.0.1:5000.
 
-![](images/topmovies_video.mp4)
 
-<video width="320" height="240" controls>
-  <source src="images/topmovies_video.mp4" type="video/mp4">
-</video>
+# cool-beans
+
+https://example.com/images/topmovies_video.mp4
+
+Press play to see the video.
+![](images/topmovies_video.mp4)(images/topmovies_video.mp4)
 
 Homepage.
 ![webpage home](images/topmovies_home.png)
